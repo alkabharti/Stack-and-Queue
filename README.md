@@ -16,7 +16,7 @@ It follows Last In First Out(LIFO) operation.
 ## Queue: 
 It is a linear data structure in which insertion and deletion are allowed at both end called rear and front.
 Insertion happens at rear while deletion happens from front.   
-It follows First In First Out(LIFO) operation.
+It follows First In First Out(FIFO) operation.
 
 ### Important Queue Operation:
 
